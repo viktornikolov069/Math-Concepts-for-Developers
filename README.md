@@ -1,4 +1,3 @@
-# Math-Concepts-for-Developers
 # Exploring Simulations and Probability
 
 ## *Viktor Nikolov*
